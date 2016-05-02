@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CollectionView</key>
+	<dict>
+		<key>FoundIn</key>
+		<array>
+			<string>03181</string>
+			<string>00012</string>
+			<string>00157</string>
+			<string>00065</string>
+			<string>03068</string>
+			<string>02674</string>
+		</array>
+		<key>InfoCells</key>
+		<array>
+			<string>Ylang ylang belongs to the Annonaceae plant family. The oil is extracted from the flowers of the plant by steam distillation.</string>
+			<string>Ylang is a tropical tree that grows up to 60 feet tall in Java, Sumatra and the Philippines. There are different types of ylang flowers, including pink, yellow and mauve.</string>
+			<string>The finest essential oil is extracted from the yellow flowered trees.</string>
+			<string>In the local dialect, ylang ylang means ‘flower of flowers.’</string>
+			<string>The oil itself is colorless to pale yellow and it has a heavy and sweet aroma.</string>
+			<string>Aromatherapists use it for its uplifting properties in treating stress and depression.</string>
+			<string>We buy several grades of ylang ylang oil and use ylang in many of our product perfumes and fine fragrances.</string>
+			<string>Ylang ylang extra is the best grade and most stringent standard for quality. Our supplier assures us that the quality of our ylang ylang extra is the best on the market.</string>
+			<string>We use ylang ylang oil in our Sex Bomb Bath Bomb for its exquisite scent.</string>
+		</array>
+		<key>IngredientName</key>
+		<string>Ylang Ylang Oil</string>
+		<key>ScientificName</key>
+		<string>Cananga odorata</string>
+	</dict>
+</dict>
+</plist>
